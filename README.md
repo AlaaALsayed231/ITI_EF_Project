@@ -1,7 +1,7 @@
-**Order Management System**
+## **Order Management System**
 
-**Description**
-The ** Order Management System ** is a desktop application built with **C#** and **.NET Windows Forms **.
+## **Description**
+The **Order Management System** is a desktop application built with **C#** and **.NET Windows Forms **.
 It helps businesses efficiently track products, Categories, stock levels, and sales transactions.
 The system supports **CRUD operations** to make inventory management smooth and efficient.
 
@@ -14,7 +14,8 @@ The system supports **CRUD operations** to make inventory management smooth and 
 
 
 ## 📌 ERD (Entity Relationship Diagram) :
-![ERD](https://github.com/user-attachments/assets/2fc0cf94-bbee-4b76-affb-7a6d19c52e19)
+![ERD1](https://github.com/user-attachments/assets/46d0772c-1371-4bff-80a2-41537047e8b3)
+
 
 
 ## 📷 Screenshots
