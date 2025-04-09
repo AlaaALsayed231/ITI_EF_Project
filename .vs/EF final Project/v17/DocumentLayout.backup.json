@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54439874-8113-43ED-AD21-B120079C2F01}|Solution Items{54439874-8113-43ED-AD21-B120079C2F01}|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{54439874-8113-43ED-AD21-B120079C2F01}|Solution Items{54439874-8113-43ED-AD21-B120079C2F01}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409181217_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF final Project\\Migrations\\20250409181217_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\context\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\context\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\migrations\\20250409173911_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\migrations\\20250409173911_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\productline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\productline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409173445_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF final Project\\Migrations\\20250409173445_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409172701_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF final Project\\Migrations\\20250409172701_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\officeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\officeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\officeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\officeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\officeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\officeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331070341_v12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331063735_v12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\productlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\productlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\productlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\productlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\ef final project\\orderproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\orderproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\orderproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\orderproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|c:\\users\\soft zone\\desktop\\ef final project\\ef final project\\ef final project\\productlineform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD715387-167B-4BBE-9CDD-6120DF0D92AF}|EF final Project\\EF final Project.csproj|solutionrelative:ef final project\\productlineform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250409181217_v3.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409181217_v3.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Migrations\\20250409181217_v3.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409181217_v3.cs",
+              "RelativeToolTip": "EF final Project\\Migrations\\20250409181217_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:12:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-09T17:41:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250409173911_v2.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409173911_v2.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Migrations\\20250409173911_v2.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409173911_v2.cs",
+              "RelativeToolTip": "EF final Project\\Migrations\\20250409173911_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:39:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Product.cs",
+              "RelativeToolTip": "EF final Project\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:37:36.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Customer.cs",
+              "RelativeToolTip": "EF final Project\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:35:57.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250409173445_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409173445_v1.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Migrations\\20250409173445_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409173445_v1.cs",
+              "RelativeToolTip": "EF final Project\\Migrations\\20250409173445_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:34:46.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250409172701_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409172701_v1.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Migrations\\20250409172701_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Migrations\\20250409172701_v1.cs",
+              "RelativeToolTip": "EF final Project\\Migrations\\20250409172701_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:27:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Context\\ProductContext.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Context\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Context\\ProductContext.cs",
+              "RelativeToolTip": "EF final Project\\Context\\ProductContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:22:57.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Form1.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:22:59.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Form1.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Form1.cs",
+              "RelativeToolTip": "EF final Project\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:51:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductLine.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\ProductLine.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\ProductLine.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\ProductLine.cs",
+              "RelativeToolTip": "EF final Project\\Models\\ProductLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:23:36.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Order.cs",
+              "RelativeToolTip": "EF final Project\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:24:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OfficeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OfficeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OfficeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OfficeForm.Designer.cs",
+              "RelativeToolTip": "EF final Project\\OfficeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:14:17.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Employee.cs",
+              "RelativeToolTip": "EF final Project\\Models\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:24:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "EF final Project\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:16:36.364Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.cs",
+              "RelativeToolTip": "EF final Project\\CustomerForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:22:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductForm.cs",
+              "RelativeToolTip": "EF final Project\\ProductForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:28:55.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Form1.Designer.cs",
+              "RelativeToolTip": "EF final Project\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:16:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Office.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Office.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Models\\Office.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Models\\Office.cs",
+              "RelativeToolTip": "EF final Project\\Models\\Office.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:09:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfficeForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OfficeForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OfficeForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OfficeForm.cs",
+              "RelativeToolTip": "EF final Project\\OfficeForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:43:21.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OfficeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OfficeForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OfficeForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\OfficeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\OfficeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:51:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250331070341_v12.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331070341_v12.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331070341_v12.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331070341_v12.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331070341_v12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:03:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250331063735_v12.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331063735_v12.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331063735_v12.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331063735_v12.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\Migrations\\20250331063735_v12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:37:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderForm.cs",
+              "RelativeToolTip": "EF final Project\\OrderForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:55:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "EF final Project\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAAADcBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:37:09.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductLineForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductLineForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\ProductLineForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductLineForm.cs",
+              "RelativeToolTip": "EF final Project\\ProductLineForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:44:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\EmployeeForm.cs",
+              "RelativeToolTip": "EF final Project\\EmployeeForm.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAG8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:00:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "EF final Project\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:05:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderProductForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OrderProductForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderProductForm.cs",
+              "RelativeToolTip": "EF final Project\\OrderProductForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:35:02.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderForm.Designer.cs",
+              "RelativeToolTip": "EF final Project\\OrderForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:42:09.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\OrderForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:39:18.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:32:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductLineForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductLineForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\ProductLineForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\ProductLineForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\ProductLineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:14:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\OrderProductForm.cs",
+              "RelativeDocumentMoniker": "EF final Project\\OrderProductForm.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\source\\repos\\EF final Project\\EF final Project\\OrderProductForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\EF final Project\\EF final Project\\OrderProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:34:38.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Program.cs",
+              "RelativeDocumentMoniker": "EF final Project\\Program.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\Program.cs",
+              "RelativeToolTip": "EF final Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:39:34.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductLineForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductLineForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF final Project\\ProductLineForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\EF final Project\\EF final Project\\EF final Project\\ProductLineForm.Designer.cs",
+              "RelativeToolTip": "EF final Project\\ProductLineForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:17:07.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
